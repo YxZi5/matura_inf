@@ -1,0 +1,18 @@
+Oblicz (123 10 XOR 101101 2) XOR 2D 16 . Wynik podaj w systemie dziesiętnym
+
+
+# liczy po spacji oznaczają podstawę liczby (system liczbowy), np: liczba 123 jest zapisana w systemie dziesiętnym.
+
+# rozwiązanie:
+
+# najpierw konwertuje liczbe binarną w nawiasie na dziesiętną i xoruje dwie liczby w nawiasie
+
+101101(bin) -> 45(dec)
+
+123 xor 45 - > 86
+
+# następnie liczbe 2D konwertuje z szesnastkowego na dziesiętny i xoruje z wynikiem z nawiasu
+
+2D(hex) -> 45(dec)
+
+86 xor 45 - > 123
