@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 
-# tutaj chuj wie o co chodzi autorom zadania
 
 def count_zeros(num):
 	c = 0
