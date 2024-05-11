@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 
-# to jest teoretycznie źle tzn funkcja wyciagajaca sufyxy jest git
-# ale zadanie jest źle i chhuj wie o co w nim wsm chodzi, ale to
-# tutaj zostawiam niech sobie bedzie.
 
 def parse_sufiks(word):
 	sufiksy = []
